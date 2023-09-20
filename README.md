@@ -1,4 +1,4 @@
-Creating a Scrollable 3D Animation with Three.js
+Scrollable 3D Animation with Three.js
 =====================================================
 
 https://youtu.be/ClvHZeWlKdk
