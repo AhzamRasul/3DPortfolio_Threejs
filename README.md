@@ -32,13 +32,13 @@ Follow these steps to set up and run the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/scrollable-3d-animation.git
+   git clone https://github.com/AhzamRasul/Scrollable-3D-Animation-with-Three.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd scrollable-3d-animation
+   cd Scrollable-3D-Animation-with-Three.js
    ```
 
 3. **Install the dependencies:**
