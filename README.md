@@ -3,8 +3,7 @@ Scrollable 3D Animation with Three.js
 
 
 
-https://github.com/AhzamRasul/Scrollable-3D-Animation-with-Three.js/assets/50517265/4a58142b-639e-43f2-8a7d-50fcc58fbf65
-
+https://github.com/AhzamRasul/Scrollable-3D-Animation-with-Three.js/assets/50517265/356f871b-6666-42e7-bb19-e984a35934e4
 
 
 youtube video = https://youtu.be/ClvHZeWlKdk
