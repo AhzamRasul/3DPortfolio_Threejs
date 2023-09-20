@@ -1,7 +1,13 @@
 Scrollable 3D Animation with Three.js
 =====================================================
 
-https://youtu.be/ClvHZeWlKdk
+
+
+https://github.com/AhzamRasul/Scrollable-3D-Animation-with-Three.js/assets/50517265/4a58142b-639e-43f2-8a7d-50fcc58fbf65
+
+
+
+youtube video = https://youtu.be/ClvHZeWlKdk
 
 This repository contains a sample project that demonstrates how to create a scrollable 3D animation using the Three.js library. With this setup, you can create immersive and interactive 3D animations that respond to a user's scroll input.
 
